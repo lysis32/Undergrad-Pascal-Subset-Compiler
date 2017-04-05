@@ -1,0 +1,4 @@
+.LC0:
+	.string "%d\n"
+	.text
+.globl main
