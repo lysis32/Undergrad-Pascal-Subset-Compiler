@@ -5,9 +5,6 @@ Compiler Construction
 README
 Version .80
 
-The current binary executable is 'afpc'. Output is directed to standard output by default,
-to direct it to a file, simply use the output redirection operator.
-
 Ex. ./afpc test1.p > test1.s
     gcc test1.s
     ./a.out
